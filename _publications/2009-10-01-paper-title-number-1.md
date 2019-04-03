@@ -1,15 +1,28 @@
 ---
-title: "Paper Title Number 1"
+title: "Assessing simplified and detailed models for predictive control of space heating in homes"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2014-12-10-paper-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2014-12-10
+venue: 'System Simulation in Buildings 2014'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+A model of a real system is required for predictive control to determine the best control
+sequence when disturbance forecasts and future system status are considered over a defined
+time horizon. The selected model should strike a balance between its accuracy and simplicity.
+This paper presents a comparison between different modeling approaches for predictive control
+of space heating. The case study is electric baseboard heating in homes within cold climate
+regions with the objective of reducing peak electricity demand (and saving costs if tariffs
+include a peak power charge). Detailed TRNSYS models of the selected house are developed
+and predictive control is implemented by using GenOpt as the optimization tool. This approach
+is compared with optimal predictive control algorithms based on simpler models. These models
+are obtained by parameter identification using data generated from the detailed TRNSYS
+models. Both approaches use perfect forecasts for the occupancy and the weather data in order
+to focus the analysis on model differences. Results show that MPC can deliver a significant
+reduction in power demand during on-peak periods with both modelling approaches (55% with
+detailed model, 33% with simplified model). The detailed model delivers significantly better
+savings but implies a calculation time that is more than 2 orders of magnitude higher. The
+potential of both approaches is discussed in the context of residential heating control to support a smart grid.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://kuzha.github.io/files/kunzhang-p2014.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : kunzhang at lbl dot gov
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -179,9 +179,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  #portfolio:
+  #  output: true
+  #  permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -226,14 +226,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  # - scope:
+  #    path: ""
+  #    type: portfolio
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comment: true
   # _talks
   - scope:
       path: ""

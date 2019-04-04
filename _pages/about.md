@@ -1,6 +1,6 @@
 ---
-title: "Home"
-permalink: /
+title: 
+permalink: /home/
 excerpt: "About me"
 author_profile: false
 redirect_from:

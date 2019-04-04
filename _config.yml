@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : kunzhang at lbl dot gov
+  email            : kunzhang@lbl.gov
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -221,7 +221,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
       comments: true

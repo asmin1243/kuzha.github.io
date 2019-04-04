@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Kun Zhang"
   avatar           : "profile.png"
-  bio              : "Postdoc Researcher @ Berkeley Lab"
+  bio              : "Postdoc Researcher"
   location         : "Berkeley, California"
-  employer         :
+  employer         : "Berkeley Lab"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : kunzhang@lbl.gov

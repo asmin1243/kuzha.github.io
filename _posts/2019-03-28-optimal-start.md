@@ -1,7 +1,7 @@
 ---
 title: 'Optimal start'
 date: 2019-03-28
-permalink: /posts/2019/03/optimal-start/
+permalink: /blogs/2019/03/optimal-start/
 tags:
   - Modelica
   - EnergyPlus

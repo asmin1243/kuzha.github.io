@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: ""
 permalink: /home/
 author_profile: false
 redirect_from:

@@ -8,7 +8,11 @@ location: "Montreal, Canada"
 ---
 
 Teaching language: French
+
 Title in French: [Éléments de mécanique du bâtiment](https://www.polymtl.ca/etudes/cours/elements-de-mecanique-du-batiment)
+
 Students number: ~50
+
 Level: Graduate level
+
 Semesters: Winter 2017, Winter 2018

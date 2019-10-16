@@ -1,7 +1,7 @@
 ---
 title: "Transportation and Use of Energy"
 collection: teaching
-type: "Graduate course"
+type: "Undergraduate course"
 permalink: /teaching/montreal-course3
 venue: "Polytechnique Montreal, Department of Mechanical Engineering"
 location: "Montreal, Canada"

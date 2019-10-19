@@ -309,4 +309,4 @@ compress_html:
   ignore:
     envs: development
 
-remote_theme: "mmistakes/minimal-mistakes@4.17.1
+remote_theme: "mmistakes/minimal-mistakes@4.17.1"

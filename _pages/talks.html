@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "Talks"
 permalink: /talks/
 author_profile: true

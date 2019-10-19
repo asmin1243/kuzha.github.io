@@ -239,7 +239,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: default
+      layout: archive
       author_profile: true
       share: true
       comments: false

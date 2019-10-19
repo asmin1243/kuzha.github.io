@@ -14,7 +14,7 @@ description              : "Postdoc Researcher"
 url                      : https://kuzha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kuzha/kuzha.github.io"
-teaser                   : "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false
@@ -242,7 +242,7 @@ defaults:
       layout: archive
       author_profile: true
       share: true
-
+      comments: false
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -307,5 +307,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-cayman

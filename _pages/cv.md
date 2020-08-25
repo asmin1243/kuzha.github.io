@@ -17,11 +17,18 @@ Work experience
 ======
 * 2018 -- present: Postdoctoral Scholar
   * Lawrence Berkeley National Laboratory
-  * Supervisor: Michael Wetter
+  * Projects:
+  * [Open Building Control](http://obc.lbl.gov/)
+  * [SolarPlus Optimizer](https://github.com/LBNL-ETA/SolarPlus-Optimizer)
+  * [Best-in-class VAV control sequences](https://bitbucket.org/berkeleylab/bic-savcal36)
 
 * 2013 -- 2018: Research Assistant
   * Polytechnique Montreal
-  * Supervisor: Michael Kummert
+  * Projects:
+  * [IEA Annex 67 Energy Flexibility in Buildings](http://www.annex67.org/)
+  * [Cold climate air source heat pump with zoning distribution](
+    https://www.nrcan.gc.ca/science-and-data/funding-partnerships/funding-opportunities/current-investments/integrated-air-source-heat-pump-system-domestic-hot-water-and-space-heating-low-energy-and-net-zero/16069
+    )
 
 Publications
 ======

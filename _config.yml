@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kun Zhang"
 title_separator          : "-"
 name                     : "Kun Zhang"
-description              : "Postdoc Researcher"
+description              : "Scientific Researcher"
 url                      : https://kuzha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kuzha/kuzha.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kun Zhang"
   avatar           : "Github_1m.jpg"
-  bio              : "Postdoc Researcher"
+  bio              : "Scientific Researcher"
   employer         : "Berkeley Lab"
   location         : "San Francisco, CA"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=l0soNkIAAAAJ"
-  email            : kunzhang@lbl.gov
+  email            : kun.zhang@polymtl.ca
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -253,7 +253,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

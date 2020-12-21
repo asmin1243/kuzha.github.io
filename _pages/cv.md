@@ -10,12 +10,12 @@ Education
 ======
 * Ph.D in Mechanical Engineering, Polytechnique Montreal, 2018
 * M.S. in Mechanical Engineering, Polytechnique Montreal, 2014
-* B.Eng. in Building Engineering, Chongqing University, 2010
+* B.Eng. in Built Environment and Energy Engineering, Chongqing University, 2010
 * B.A in English, Chongqing University, 2010
 
 Work experience
 ======
-* 2018 -- present: Postdoctoral Scholar at Lawrence Berkeley National Laboratory
+* 2018 -- present: Postdoctoral Researcher at Lawrence Berkeley National Laboratory
   * Projects:
   * [Open Building Control](http://obc.lbl.gov/)
   * [SolarPlus Optimizer](https://github.com/LBNL-ETA/SolarPlus-Optimizer)

@@ -28,6 +28,11 @@ Work experience
     https://www.nrcan.gc.ca/science-and-data/funding-partnerships/funding-opportunities/current-investments/integrated-air-source-heat-pump-system-domestic-hot-water-and-space-heating-low-energy-and-net-zero/16069
     )
 
+* 2010 -- 2013: MEP (Mechanical, Electrical and Plumbing) Engineer
+  * Projects:
+  * Innovation Park Beijing
+  * BMW Brilliance Automotive new plants in Shenyang, China
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -40,7 +45,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Skills
+Computer Skills
 ======
   * Python
   * Modelica
@@ -48,17 +53,29 @@ Skills
   * TRNSYS
   * EnergyPlus
 
+Languages
+======
+  * English
+  * French
+  * Chinese
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Service
+Outreach
 ======
 * Reviewer
   * Energy and Buildings
   * Journal of Building Performance Simulation
+  * Building Simulation: an International Journal
   * Sustainable Cities and Society
-  * Building Simulation conferences 2015, 2017, 2019
-  * eSim 2018
+  * IBPSA Building Simulation conferences 2015, 2017, 2019, 2021
+  * IBPSA Canada eSim conferences 2018, 2020
+  * 2020 ACEEE Summer Study on Energy Efficiency in Buildings
+
+* Membership
+  * International Building Performance Simulation Association (IBPSA)
+  * American Society of Heating, Refrigeration and Air-conditioning Association (ASHRAE)

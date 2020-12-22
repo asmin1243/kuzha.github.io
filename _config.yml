@@ -17,10 +17,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Kun Zhang"
 title_separator          : "-"
-name                     : "Kun Zhang"
-description              : "Scientific Researcher"
+name                     : &name "Kun Zhang"
+description              : &description "Scientific Researcher"
 url                      : https://kuzha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kuzha/kuzha.github.io"
@@ -31,7 +31,7 @@ future                   : false
 read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : true #change to true to add link to talkmap on talks page
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               :  # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:

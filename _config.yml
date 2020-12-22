@@ -17,7 +17,7 @@ minimal_mistakes_skin: "air" # "default" # "air", "aqua", "contrast", "dark", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kun Zhang"
+title                    : ""
 title_separator          : "-"
 name                     : "Kun Zhang"
 description              : "Scientific Researcher"

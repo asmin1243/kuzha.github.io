@@ -215,6 +215,8 @@ defaults:
       # layout: archive
       layout: single
       author_profile: true
+      share: true
+      comments: false
   # _teaching
   - scope:
       path: ""
@@ -324,8 +326,8 @@ compress_html:
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-remote_theme: "mmistakes/minimal-mistakes@4.21.0"
+# remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 
 # This is for local host theme
 # theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+# minimal_mistakes_skin: "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"

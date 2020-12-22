@@ -204,62 +204,56 @@ defaults:
       path: ""
       type: posts
     values:
-      # layout: archive
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
-      share: false
+      share: true
       related: true
   # _pages
   - scope:
       path: ""
       type: pages
     values:
-      # layout: archive
       layout: single
       author_profile: false
-      share: false
-      comments: false
   # _teaching
   - scope:
       path: ""
       type: teaching
     values:
-      # layout: archive
       layout: single
+      read_time: false
       author_profile: false
       share: false
       comments: false
-  # _publications
+  # _articles
   - scope:
       path: ""
-      type: publications
+      type: articles
     values:
-      # layout: archive
       layout: single
       author_profile: false
       share: false
       comments: false
-  # _portfolio
+  # _expressions
   # - scope:
-  #    path: ""
-  #    type: portfolio
-  #  values:
-  #    layout: archive
-  #    author_profile: true
-  #    share: true
-  #    comment: true
+  #     path: ""
+  #     type: expressions
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
   # _talks
   - scope:
       path: ""
       type: talks
     values:
-      # layout: archive
-      layout: single
+      layout: talk
       author_profile: false
       share: false
-      comments: false
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass

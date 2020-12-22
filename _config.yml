@@ -5,11 +5,15 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+# remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 
-
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# This is for local host theme
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -205,7 +209,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
@@ -215,7 +219,7 @@ defaults:
       # layout: archive
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: false
   # _teaching
   - scope:
@@ -225,7 +229,7 @@ defaults:
       # layout: archive
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: false
   # _publications
   - scope:
@@ -235,7 +239,7 @@ defaults:
       # layout: archive
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: false
   # _portfolio
   # - scope:
@@ -254,7 +258,7 @@ defaults:
       # layout: archive
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: false
 # Sass/SCSS
 sass:
@@ -321,13 +325,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-# Theme Settings
-#
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-# remote_theme: "mmistakes/minimal-mistakes@4.21.0"
-
-# This is for local host theme
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"

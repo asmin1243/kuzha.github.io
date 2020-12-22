@@ -224,7 +224,7 @@ defaults:
       author_profile: false
       share: false
       comments: false
-  # _articles
+  # _publications
   - scope:
       path: ""
       type: publications

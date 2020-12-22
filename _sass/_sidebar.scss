@@ -24,7 +24,6 @@
     }
   }
 
-
   @include breakpoint($x-large) {
     padding-right: 0;
   }
@@ -45,7 +44,7 @@
   }
 
   img {
-    width: 100%;
+    width: 125%;
   }
 }
 

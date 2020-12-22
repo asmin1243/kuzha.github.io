@@ -218,7 +218,7 @@ defaults:
     values:
       # layout: archive
       layout: single
-      author_profile: true
+      author_profile: false
       share: false
       comments: false
   # _teaching
@@ -228,7 +228,7 @@ defaults:
     values:
       # layout: archive
       layout: single
-      author_profile: true
+      author_profile: false
       share: false
       comments: false
   # _publications
@@ -238,7 +238,7 @@ defaults:
     values:
       # layout: archive
       layout: single
-      author_profile: true
+      author_profile: false
       share: false
       comments: false
   # _portfolio
@@ -257,7 +257,7 @@ defaults:
     values:
       # layout: archive
       layout: single
-      author_profile: true
+      author_profile: false
       share: false
       comments: false
 # Sass/SCSS

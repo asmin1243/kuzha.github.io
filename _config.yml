@@ -227,7 +227,7 @@ defaults:
   # _articles
   - scope:
       path: ""
-      type: publication
+      type: publications
     values:
       layout: single
       author_profile: false

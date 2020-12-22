@@ -323,4 +323,4 @@ remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 
 # This is for local host theme
 # theme: minimal-mistakes-jekyll
-# minimal_mistakes_skin: "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"

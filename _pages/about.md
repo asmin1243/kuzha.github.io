@@ -21,13 +21,13 @@ My previous and ongoing research focuses on development of next-generation compu
 
 ## My background
 
-I received my Master and Ph.D. degrees from [Polytechnique Montréal](http://www.polymtl.ca), the engineering school of the University of Montréal. During my graduate studies, I contributed actively to the IEA (International Energy Agency) EBC (Energy in Buildings and Communities) programme [Annex 67](http://www.annex67.org/) project on "Energy Flexible Buildings" by joining in expert meetings, presenting my research outcomes and co-authoring reports and papers with international collaborators.
+I received my Master and Ph.D. degrees from [Polytechnique Montréal](http://www.polymtl.ca), the engineering school of Université de Montréal. During my graduate studies, I contributed actively to the IEA (International Energy Agency) EBC (Energy in Buildings and Communities) programme [Annex 67](http://www.annex67.org/) project on "Energy Flexible Buildings" by joining in expert meetings, presenting my research outcomes and co-authoring reports and papers with international collaborators.
 
 In two other projects, I worked closely with two Canadian industry partners on cold climate heat pumps and smart thermostats.
 
 ## My teaching philosophy
 
-Instead of imperatively delivering, I see teaching as a way of exchanging thoughts, knowledge and experience with students. And I enjoy that process. I have had teaching experience both at undergraduate and graduate levels and consistently give training sessions and seminars to students and colleagues in my previous work.
+Instead of imperatively delivering, I see teaching as a way of exchanging thoughts, knowledge and experience with students. And I enjoy that process. I have had teaching experience both at undergraduate and graduate levels and consistently give training sessions and seminars to students and colleagues in my work.
 
 I believe in active and interactive learning. Since everyone has their unique way of learning, I try to cautiously adapt myself in different ways of communication so that a broad spectrum of learning styles can be captured.
 

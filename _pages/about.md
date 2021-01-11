@@ -17,7 +17,7 @@ My name is Kun. I am a Researcher in the Energy Technologies Area at [Lawrence B
 
 ## My research interests
 
-My previous and ongoing research focuses on development of next-generation computational tools for optimal design and operation of energy systems in buildings and communities, advanced modelling and control methods research including Model Predictive Control (MPC), data-driven modelling and machine learning methods. My work includes implementation, deployment and testing of the models, control methods and computational tools both in simulations and real-world systems for energy efficiency, flexibility, resilience and sustainability. The applications of my work fall broadly under smart buildings, smart grids and Internet of Things.
+My previous and ongoing research focuses on development of next-generation computational tools for optimal design and operation of energy systems in buildings and communities, advanced modelling and control methods including Model Predictive Control (MPC), data-driven modelling and machine learning approaches. My work includes implementation, deployment and testing of the models, control methods and computational tools both in simulations and real-world systems for energy efficiency, flexibility, resilience and sustainability. The applications of my work fall broadly under smart buildings, smart grids and Internet of Things.
 
 ## My background
 

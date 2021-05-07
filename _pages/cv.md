@@ -6,8 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Education
-======
+# Education
+
 * University of Montréal (École Polytechnique)
   * Ph.D. in Mechanical Engineering (2018)
   * M.S. in Mechanical Engineering (2014)
@@ -15,9 +15,11 @@ Education
   * B.Eng. in Built Environment and Energy Engineering (2010)
   * B.A. in English (2010)
 
-Work experience
-======
-* 2018 -- present: Postdoctoral Researcher at Lawrence Berkeley National Laboratory
+# Work experience
+
+* 2021 -- present: Reserach Scientist at Natural Resources Canada
+
+* 2018 -- 2020: Postdoctoral Researcher at Lawrence Berkeley National Laboratory
   * Projects:
     * [Open Building Control](http://obc.lbl.gov/)
     * [SolarPlus Optimizer](https://github.com/LBNL-ETA/SolarPlus-Optimizer)
@@ -35,40 +37,40 @@ Work experience
     * Innovation Park Beijing
     * BMW Brilliance Automotive new plants in Shenyang, China
 
-Selected publications
-======
+# Selected publications
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Teaching
-======
+# Teaching
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Computer Skills
-======
+# Computer Skills
+
   * Python
   * Modelica
   * Matlab
   * TRNSYS
   * EnergyPlus
 
-Languages
-======
+# Languages
+
   * English
   * French
   * Chinese
 
-Talks
-======
+# Talks
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Outreach
-======
+# Outreach
+
 * Reviewer
   * Energy and Buildings
   * Journal of Building Performance Simulation

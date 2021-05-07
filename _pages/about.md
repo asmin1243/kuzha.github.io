@@ -35,6 +35,7 @@ I believe in active and interactive learning. Since everyone has their unique wa
 
 I am a marathon runner. I enjoy hiking in the nature and reading Haruki Murakami in my spare time.
 
-</br>
+<br/>
+<br/>
 
 *Last updated May 7, 2021*

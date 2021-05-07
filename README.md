@@ -1,1 +1,3 @@
-This is my Github Pages, which used the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
+# Personal website
+
+This is the repository for my professional website hosted in Github Pages.

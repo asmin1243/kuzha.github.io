@@ -13,7 +13,7 @@ redirect_from:
 
 Bonjour-Hi!
 
-My name is Kun. I am a Researcher in the Energy Technologies Area at [Lawrence Berkeley National Laboratory](http://www.lbl.gov), a.k.a. Berkeley Lab or LBNL, a U.S. Department of Energy Lab affiliated to UC Berkeley.
+My name is Kun. I am a Research Scientist at [CanmetENERGY Varennes, Natural Resources Canada (NRCan)](https://www.nrcan.gc.ca/energy/energy-offices-and-labs/canmetenergy/canmetenergy-varennes/5761). Prior to NRCan, I worked as a researcher in the Energy Technologies Area at [Lawrence Berkeley National Laboratory](http://www.lbl.gov), a.k.a. Berkeley Lab or LBNL, a U.S. Department of Energy Lab affiliated to UC Berkeley.
 
 ## My research interests
 
@@ -32,4 +32,9 @@ Instead of imperatively delivering, I see teaching as a way of exchanging though
 I believe in active and interactive learning. Since everyone has their unique way of learning, I try to cautiously adapt myself in different ways of communication so that a broad spectrum of learning styles can be captured.
 
 ## My hobbies
+
 I am a marathon runner. I enjoy hiking in the nature and reading Haruki Murakami in my spare time.
+
+</br>
+
+*Last updated May 7, 2021*

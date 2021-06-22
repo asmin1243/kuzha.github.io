@@ -13,7 +13,7 @@ redirect_from:
 
 Bonjour-Hi!
 
-My name is Kun. I am a Research Scientist at [CanmetENERGY Varennes, Natural Resources Canada (NRCan)](https://www.nrcan.gc.ca/energy/energy-offices-and-labs/canmetenergy/canmetenergy-varennes/5761). Prior to NRCan, I worked as a researcher in the Energy Technologies Area at [Lawrence Berkeley National Laboratory](http://www.lbl.gov), a.k.a. Berkeley Lab or LBNL, a U.S. Department of Energy Lab affiliated to UC Berkeley.
+I am a Research Scientist at [CanmetENERGY Varennes, Natural Resources Canada (NRCan)](https://www.nrcan.gc.ca/energy/energy-offices-and-labs/canmetenergy/canmetenergy-varennes/5761). Prior to NRCan, I worked as a postdoctoral researcher in the Energy Technologies Area at [Lawrence Berkeley National Laboratory (LBNL)](http://www.lbl.gov), a.k.a. Berkeley Lab, a U.S. Department of Energy (DOE) Lab affiliated to UC Berkeley.
 
 ## My research interests
 

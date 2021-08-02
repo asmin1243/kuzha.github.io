@@ -79,6 +79,7 @@ redirect_from:
   * IBPSA Building Simulation conferences 2015, 2017, 2019, 2021
   * IBPSA Canada eSim conferences 2018, 2020
   * ACEEE Summer Study on Energy Efficiency in Buildings 2020
+  * ASHRAE Winter Conference 2022
 
 * Membership
   * International Building Performance Simulation Association (IBPSA)

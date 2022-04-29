@@ -92,8 +92,8 @@ analytics:
 author:
   name             : "Kun Zhang"
   avatar           : "Github_1m.jpg"
-  bio              : "Research Scientist"
-  employer         : "Natural Resources Canada"
+  bio              : "Research Scientist, Natural Resources Canada"
+  employer         : # "Natural Resources Canada"
   location         : "Montréal, Québec"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=l0soNkIAAAAJ"

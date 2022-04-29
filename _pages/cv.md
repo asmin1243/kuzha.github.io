@@ -13,28 +13,35 @@ redirect_from:
   * M.S. in Mechanical Engineering (2014)
 * Chongqing University
   * B.Eng. in Built Environment and Energy Engineering (2010)
-  * B.A. in English (2010)
+  * B.A. in English Language and Literature (2010)
 
-# Work experience
+# Research experience
 
-* 2021 -- present: Reserach Scientist at Natural Resources Canada
+* 2021 -- present: Reserach Scientist, Natural Resources Canada
+  * Projects:
+    * Community energy flexibility: assessment, enhancement and implementation
+    * Data analytics, virtual metering and advanced control for large commercial buildings
+    * Implementation of model predictive control for Canadian Space Agency (CSA)
 
-* 2018 -- 2020: Postdoctoral Researcher at Lawrence Berkeley National Laboratory
+* 2018 -- 2020: Postdoctoral Researcher, Lawrence Berkeley National Laboratory
   * Projects:
     * [Open Building Control](http://obc.lbl.gov/)
     * [SolarPlus Optimizer](https://github.com/LBNL-ETA/SolarPlus-Optimizer)
-    * [Best-in-class VAV control sequences](https://bitbucket.org/berkeleylab/bic-savcal36)
+    * [Energy savings calculator for VAV control sequences in ASHRAE Guideline 36](https://github.com/LBNL-ETA/G36SavingsCalculator)
+    * [Spawn of EnergyPlus](https://lbl-srg.github.io/soep/)
 
-* 2013 -- 2018: Research Assistant at Polytechnique Montreal
+* 2013 -- 2018: Research Assistant, Polytechnique Montréal
   * Projects:
     * [IEA Annex 67 Energy Flexibility in Buildings](http://www.annex67.org/)
     * [Cold climate air source heat pump with zoning distribution](
-    https://www.nrcan.gc.ca/science-and-data/funding-partnerships/funding-opportunities/current-investments/integrated-air-source-heat-pump-system-domestic-hot-water-and-space-heating-low-energy-and-net-zero/16069
-    )
+    https://www.nrcan.gc.ca/science-and-data/funding-partnerships/funding-opportunities/current-investments/integrated-air-source-heat-pump-system-domestic-hot-water-and-space-heating-low-energy-and-net-zero/16069)
+    * [Smart Net-zero Energy Buildings Research Network](https://www.solarbuildings.ca/index.php/en/)
+
+# Industrial experience
 
 * 2010 -- 2013: MEP (Mechanical, Electrical and Plumbing) Engineer
   * Projects:
-    * Innovation Park Beijing
+    * Beijing Innovation Park
     * BMW Brilliance Automotive new plants in Shenyang, China
 
 # Selected publications
@@ -51,17 +58,17 @@ redirect_from:
 
 # Computer Skills
 
-  * Python
-  * Modelica
-  * Matlab
-  * TRNSYS
-  * EnergyPlus
+* Python
+* Modelica
+* Matlab/Simulink
+* TRNSYS
+* EnergyPlus
 
 # Languages
 
-  * English
-  * French
-  * Chinese
+* English
+* French
+* Chinese
 
 # Talks
 
@@ -71,7 +78,11 @@ redirect_from:
 
 # Outreach
 
+* Program committee
+  * ACM BuildSys 2022
+
 * Reviewer
+  * Advances in Applied Energy
   * Energy and Buildings
   * Journal of Building Performance Simulation
   * Building Simulation: an International Journal

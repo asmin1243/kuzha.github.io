@@ -12,28 +12,15 @@ Below is my contact information, including my email address and several web serv
 * GitHub: [kunzhang](https://github.com/kuzha)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>

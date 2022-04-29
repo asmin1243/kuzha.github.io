@@ -10,8 +10,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<style>
-
+{: style="text-align: justify" }
 
 Bonjour-Hi!
 
@@ -36,14 +35,18 @@ I believe in active and interactive learning. Since everyone has their unique wa
 ## My hobbies
 
 I am a marathon runner. I enjoy hiking in the nature and reading Haruki Murakami in my spare time.
-{text-align: justify}</style>
+
 <br/>
 <br/>
-
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 *Last updated May 7, 2021*

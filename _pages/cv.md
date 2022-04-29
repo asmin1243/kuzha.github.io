@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-# Education
+## Education
 
 * University of Montréal (École Polytechnique)
   * Ph.D. in Mechanical Engineering (2018)
@@ -15,7 +15,7 @@ redirect_from:
   * B.Eng. in Built Environment and Energy Engineering (2010)
   * B.A. in English Language and Literature (2010)
 
-# Research experience
+## Research experience
 
 * 2021 -- present: Reserach Scientist, Natural Resources Canada
   * Projects:
@@ -27,7 +27,7 @@ redirect_from:
   * Projects:
     * [Open Building Control](http://obc.lbl.gov/)
     * [SolarPlus Optimizer](https://github.com/LBNL-ETA/SolarPlus-Optimizer)
-    * [Energy savings calculator for VAV control sequences in ASHRAE Guideline 36](https://github.com/LBNL-ETA/G36SavingsCalculator)
+    * [Energy savings calculator for VAV control sequences of ASHRAE Guideline 36](https://github.com/LBNL-ETA/G36SavingsCalculator)
     * [Spawn of EnergyPlus](https://lbl-srg.github.io/soep/)
 
 * 2013 -- 2018: Research Assistant, Polytechnique Montréal
@@ -37,26 +37,26 @@ redirect_from:
     https://www.nrcan.gc.ca/science-and-data/funding-partnerships/funding-opportunities/current-investments/integrated-air-source-heat-pump-system-domestic-hot-water-and-space-heating-low-energy-and-net-zero/16069)
     * [Smart Net-zero Energy Buildings Research Network](https://www.solarbuildings.ca/index.php/en/)
 
-# Industrial experience
+## Industrial experience
 
 * 2010 -- 2013: MEP (Mechanical, Electrical and Plumbing) Engineer
   * Projects:
     * Beijing Innovation Park
     * BMW Brilliance Automotive new plants in Shenyang, China
 
-# Selected publications
+## Selected publications
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-# Teaching
+## Teaching
 
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-# Computer Skills
+## Computer Skills
 
 * Python
 * Modelica
@@ -64,19 +64,19 @@ redirect_from:
 * TRNSYS
 * EnergyPlus
 
-# Languages
+## Languages
 
 * English
 * French
 * Chinese
 
-# Talks
+## Talks
 
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-# Outreach
+## Outreach
 
 * Program committee
   * ACM BuildSys 2022

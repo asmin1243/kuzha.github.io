@@ -44,36 +44,10 @@ redirect_from:
     * Beijing Innovation Park
     * BMW Brilliance Automotive new plants in Shenyang, China
 
-## Selected publications
-
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 ## Teaching
 
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-## Computer Skills
-
-* Python
-* Modelica
-* Matlab/Simulink
-* TRNSYS
-* EnergyPlus
-
-## Languages
-
-* English
-* French
-* Chinese
-
-## Talks
-
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
 ## Outreach
@@ -95,3 +69,29 @@ redirect_from:
 * Membership
   * International Building Performance Simulation Association (IBPSA)
   * American Society of Heating, Refrigeration and Air-conditioning Association (ASHRAE)
+
+## Computer Skills
+
+* Python
+* Modelica
+* Matlab/Simulink
+* TRNSYS
+* EnergyPlus
+
+## Languages
+
+* English
+* French
+* Chinese
+
+## Talks
+
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+## Selected publications
+
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
